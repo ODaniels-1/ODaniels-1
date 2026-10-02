@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**ODaniels-1/ODaniels-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Daniel 👋
 
-Here are some ideas to get you started:
+I'm an aspiring developer and researcher exploring the intersection of **Blockchain** and **Data Science**. I focus on building practical applications, starting from key regulatory and fintech use cases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I've Worked On
+- 📜 **Blockchain Credential Verification:** Published a project on a tokenized framework for credential verification aligned with the Nigeria Data Protection Act (NDPA).
+- 🛡️ **Fraud Detection:** Developed a Machine Learning model in Python for fraud detection.
+- 💳 **Fintech Exploration:** Built an experimental vibe-coded app in the fintech space.
+
+---
+
+### 🛠 Tech & Tools
+**Primary Language:** `Python`  
+**Focus Areas:** `Data Science` `Blockchain / Web3` `Fintech`  
+**Tools & Platforms:** `Git` `GitHub`  
+
+---
+
+### 📊 GitHub Stats
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ODaniels-1&show_icons=true&theme=radial)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ODaniels-1&layout=compact)
+
+
+###🔗 Connect with Me
+https://www.linkedin.com/in/daniel-ogidiolu-667509210/
