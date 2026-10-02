@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Daniel 👋
 
 I'm an aspiring developer and researcher exploring the intersection of **Blockchain** and **Data Science**. I focus on building practical applications, starting from key regulatory and fintech use cases.
@@ -16,7 +14,7 @@ I'm an aspiring developer and researcher exploring the intersection of **Blockch
 ### 🛠 Tech & Tools
 **Primary Language:** `Python`  
 **Focus Areas:** `Data Science` `Blockchain / Web3` `Fintech`  
-**Tools & Platforms:** `Git` `GitHub`  
+**Tools & Platforms:** `Git` `GitHub`  `Jupyter notebook`  
 
 ---
 
